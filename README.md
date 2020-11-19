@@ -1,0 +1,1 @@
+# always-with-root-umd-library-plugin
